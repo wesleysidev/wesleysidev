@@ -38,20 +38,8 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wesleysidev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysidev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div>
+ <a href="https://github.com/wesleysidev">
+ <img width="46%" src="https://github-readme-stats.vercel.app/api?username=wesleysidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysidev&layout=compact&langs_count=16&theme=algolia"/>
+</div>
