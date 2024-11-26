@@ -1,16 +1,12 @@
 # 👨🏻‍💻 Wesley
-
 **`Estudante`**
-
 - 🌱 I’m currently learning Portugol.
 - 💬 Ask me about anything! let`s be friends! 
 - ⚡ PT-BR
-
 <div> 
   <a href="https://www.instagram.com/wesleysilvace/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wesleysidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5511958205316" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-
  </a>
     <a href="https://github.com/wesleysidev?tab=followers">
         <img 
@@ -22,7 +18,6 @@
  
 </div>
 
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -32,14 +27,22 @@
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"
 />
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
-<div>
- <a href="https://github.com/wesleysidev">
- <img width="46%" src="https://github-readme-stats.vercel.app/api?username=wesleysidev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysidev&layout=compact&langs_count=16&theme=algolia"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="46%" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wesleysidev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="50%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysidev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
