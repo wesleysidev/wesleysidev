@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Wesley
 **`Estudante`**
-- 🌱 I’m currently learning Portugol.
+- 🌱 I’m currently learning C#.
 - 💬 Ask me about anything! let`s be friends! 
 - ⚡ PT-BR
 <div> 
