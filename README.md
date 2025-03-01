@@ -1,45 +1,49 @@
-<h2 align="left">Hi 👋! My name is Wesley</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesleysidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesleysidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+# 👨🏻‍💻 Wesley
+**`Estudante`**
+- 🌱 I’m currently learning C#.
+- 💬 Ask me about anything! let`s be friends! 
+- ⚡ PT-BR
+<div> 
+  <a href="https://www.instagram.com/wesleysilvace/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:wesleysidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5511958205316" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ </a>
+    <a href="https://github.com/wesleysidev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/wesleysidev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+ 
 </div>
 
-###
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+/>
+<br/>
+<br/>
 
-<br clear="both">
-
-<img align="right" height="179" src="https://media1.tenor.com/m/xjvmoEYtjwEAAAAd/thumbs-up-double-thumbs-up.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/wesleysilvace/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="wesleysidev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/wesleysidev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wesleysidev/wesleysidev/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
+### 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="167px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wesleysidev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="115px" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysidev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
